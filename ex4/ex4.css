@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Niramit:wght@300&display=swap');
+body{
+    background-color: rgb(255, 180, 196);
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Mali', cursive;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Noto Sans Thai Looped', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.h0{
+    background-color: rgb(255, 197, 197);
+}
+.navbar-brand{
+    color: black;
+    font-weight: bold;
+    font-size: 42px;
+    font-family: 'Playfair Display', serif;
+}
+.nav-link{
+    font-size: 18px;
+    font-family: 'Crimson Text', serif;
+}
+.box1{
+    background-color: rgb(255, 229, 229);
+    border-radius: 50px;
+}
+.heading{
+    font-size: 100px;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+}
+.sur{
+    font-size: 100px;
+    color: rgb(219, 40, 40);
+    font-family: 'Playfair Display', serif;
+    text-align: right; 
+}
+.button{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.line{
+    color: black;
+}
+.line2{
+    color: black;
+    text-align: right;
+}
+.box3{
+    background-color: rgb(255, 229, 229);
+    border-radius: 50px;
+    color: black;
+    text-align: center;
+    font-family: 'Niramit', sans-serif;
+    font-weight: 500;
+}
+.con{
+    font-weight: bolder;
+    font-size: 32px;
+}
+.box2{
+    background-color: rgb(255, 229, 229);
+    border-radius: 50px;
+    color: black;
+    font-family: 'Niramit', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+.Abi{
+    font-weight: bolder;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    text-align: center;
+}
+.boxname{
+    background-color: rgb(226, 156, 156);
+    border-radius: 50px;
+    color: black;
+    font-weight: 500;
+   
+}
+.h1e{
+    padding-left: 100px;
+    font-weight: 100;
+}
+.arm{
+    border-radius: 20px;
+}
+.b{
+    color: red;
+  }
+
+
+
+

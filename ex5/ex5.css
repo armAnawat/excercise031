@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Pridi:wght@300;400&display=swap');
+body{
+    background-color: rgb(255, 238, 162);
+    font-family: 'Mali', cursive;
+    color: #e31b36;
+    letter-spacing: 2px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Pridi', serif;
+}
+
+.san{
+    color: #ffffff;
+    font-family: 'Pridi', serif;
+}
+
+
+.name{
+    color: #9a5ccd;
+    font-size: 16px;
+  }
+
+  a{
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  a:hover{
+    color: darkturquoise;
+    font-weight: bold;
+
+  }
+  .s1{
+    border-radius: 30px;
+  }
+  .box1{
+    background-color: #ebc766;
+  }
+  .box2{
+    background-color: #ebad66;
+  }
+  .box3{
+    background-color: #eba266;
+  }
+  h2{
+    color: rgb(2, 0, 0);
+    font-weight: bold;
+    padding-left: 10px;
+  }
+  .box4{
+    background-color: #eb9066;
+    color: white;
+    padding-left: 5px;
+  }
+  .box5{
+    background-color: #ffceb8;
+  }
+
+  

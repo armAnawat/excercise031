@@ -1,9 +1,8 @@
 body{
-    background-color: rgb(204, 240, 238);
+    background-color: rgb(255, 255, 255);
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
     font-family: 'Mali', cursive;
     font-family: 'Noto Sans Thai', sans-serif;
     font-family: 'Noto Sans Thai Looped', sans-serif;
-    color: rgb(0, 0, 0);
-    
+    color: rgb(255, 0, 0);
 }
